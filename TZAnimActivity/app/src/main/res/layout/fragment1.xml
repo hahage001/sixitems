@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="1111111111111111111"/>
+   <!-- <com.my.tzanimactivity.DragFloatActionButton
+        android:id="@+id/id_parts_myfabtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="350px"
+        android:layout_marginRight="10dp"
+        android:backgroundTint="#FF5C4B"
+        android:src="@mipmap/ic_launcher"
+        app:borderWidth="0dp"
+        app:fabSize="mini"
+        app:rippleColor="#faa8a0" />-->
+
+</RelativeLayout>
